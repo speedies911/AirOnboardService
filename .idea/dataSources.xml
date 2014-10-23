@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3726675281">
+    <data-source source="LOCAL" name="aos" uuid="4acf0a72-4b34-4ed6-ae49-8e39f8abfc2e">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/sql/aos.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
